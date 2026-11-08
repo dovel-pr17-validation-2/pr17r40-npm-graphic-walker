@@ -1013,10 +1013,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@kanaries/gw-dsl-parser@^0.1.48-rc3":
-  version "0.1.48-rc5"
-  resolved "https://registry.yarnpkg.com/@kanaries/gw-dsl-parser/-/gw-dsl-parser-0.1.48-rc5.tgz#b45d92bc85559bc0d477c5a07a9b05d7c2f360eb"
-  integrity sha512-o+/rE/I1OkK31D+Fj4Uik1czZuTMM7f4BLswmL3yb6bucFxcNZ+bR4s7SDH5dm9L2KVi1A+QLcd0Zh8VaKg9mw==
+"@kanaries/gw-dsl-parser@^0.1.51-rc1":
+  version "0.1.51-rc1"
+  resolved "https://registry.yarnpkg.com/@kanaries/gw-dsl-parser/-/gw-dsl-parser-0.1.51-rc1.tgz#b411bf464502b0892d2b490536334505dc7fbdb2"
+  integrity sha512-d0u+AOJb5KCjMv697zpmTgUYRwl+dK1twbmSRRN81fnlBN8+F/VU/OX/h/PaxavHttse1XuQDv4eGjftfkuoAA==
 
 "@kanaries/react-beautiful-dnd@0.2.1":
   version "0.2.1"
